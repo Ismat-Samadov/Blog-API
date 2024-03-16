@@ -8,9 +8,16 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
+    "dotenv": "^16.4.5",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
+    "mongoose": "^8.2.2",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "In this project, we will create a Blog API along with two different front-ends: one for readers to access and comment on posts, and another for authors to write, edit, and publish posts. By separating the backend and frontend, we demonstrate the flexibility and power of decoupling code.",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
